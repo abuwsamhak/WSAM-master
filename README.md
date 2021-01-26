@@ -1,7 +1,7 @@
 #  تنصيب سورس ابو وسام مسافر بلا عنوان  V1.4.2 ⇓⇓⇓ 
 
 ```
-git clone https://github.com/veercli/WSAM.git;cd WSAM;chmod +x ins;./ins
+git clone https://github.com/abuwsamhak/WSAM.git;cd WSAM;chmod +x ins;./ins
 ```
 * فقط أضغط على الكود ☝🏿 وقم بنسخه 
 * ثم الصقه بالترمنال وانتر تتنظر يتنصب...
